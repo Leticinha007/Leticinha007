@@ -1,6 +1,6 @@
 ## 👋 Olá!
 
-Me chamo **Leticia Rebeka**, sou estudante de **Engenharia de Materiais** na **Universidade Federal Rural de Pernambuco**. Sou apaixonada por **tecnologia**, sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de software.
+Me chamo **Leticia Rebeka**, sou estudante de **Engenharia de Materiais** na **Universidade Federal Rural de Pernambuco** e **ADS** na **UNINTER**. Sou apaixonada por **tecnologia**, sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de software.
 
 
 ---
@@ -51,8 +51,10 @@ Atualmente estou me especializando em:
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiarebeka/?trk=opento_sprofile_topcard)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leticiarebekaf1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/leticiarebeka/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leticiarebeka_/)
+[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leticinha007)
+[![Gmail](https://img.shields.io/badge/Gmail-ec63a1?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiarebekaf1@gmail.com)
 
 ---
 
