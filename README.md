@@ -50,14 +50,14 @@ Atualmente estou me especializando em:
 ---
 
 ## Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Instagram-clone&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/Instagram-clone)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Instagram-clone&bg_color=551A8B&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/Instagram-clone)]
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Gerenciador-de-Tarefas&bg_color=ec63a1&border_color=ff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/Gerenciador-de-Tarefas)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Gerenciador-de-Tarefas&bg_color=551A8B&border_color=ff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/Gerenciador-de-Tarefas)]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=dio-lab-open-source&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/dio-lab-open-source)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=dio-lab-open-source&bg_color=551A8B&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/dio-lab-open-source)]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=letbank&bg_color=ec63a1&border_color=&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/letbank)] 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=letbank&bg_color=551A8B&border_color=&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Leticinha007/letbank)] 
 
 ---
 
