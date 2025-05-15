@@ -79,7 +79,6 @@ Atualmente estou me especializando em:
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leticinha007/Leticinha007/output/github-contribution-grid-snake.svg">
 </picture>
 
-## ❤ Amo tecnologia e estou sempre em busca de novos desafios!
-
+## 💜 Amo tecnologia e tenho muita vontade de aprender, crescer e inovar.
 
 
