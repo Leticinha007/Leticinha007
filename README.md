@@ -1,5 +1,6 @@
-## 💻 Leticia Rebeka
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+## <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a> Leticia Rebeka
 
 Estudante de **Engenharia de Materiais** na **Universidade Federal Rural de Pernambuco** e **ADS** na **UNINTER**. Sou apaixonada por **tecnologia**, sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de software.
 
