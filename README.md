@@ -52,14 +52,14 @@ Atualmente estou me especializando em:
 ---
 
 ## 💼 Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Instagram-clone&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=FFF)](https://github.com/Leticinha007/Instagram-clone)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Instagram-clone&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=FFF)](https://github.com/Leticinha007/Instagram-clone)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Gerenciador-de-Tarefas&bg_color=000&border_color=ff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/Gerenciador-de-Tarefas)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Gerenciador-de-Tarefas&bg_color=000&border_color=ff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/Gerenciador-de-Tarefas)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=dio-lab-open-source&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/dio-lab-open-source)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=dio-lab-open-source&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=letbank&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/letbank)] 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=letbank&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/letbank) 
 
 ---
 
