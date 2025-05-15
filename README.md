@@ -1,13 +1,13 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-## <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a> Leticia Rebeka
+
+## ![lr_logo_50x50](https://github.com/user-attachments/assets/e39da5bd-2043-47ac-9e8b-a9c091176390) *Leticia Rebeka*
 
 Estudante de **Engenharia de Materiais** na **Universidade Federal Rural de Pernambuco** e **ADS** na **UNINTER**. Sou apaixonada por **tecnologia**, sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de software.
 
-
 ---
 
-## 🚀 Expertise
+## 🎓 Expertise
 
 Atualmente estou me especializando em:
 
@@ -20,29 +20,29 @@ Atualmente estou me especializando em:
 
 ## 💻 Tech Stack
 
-### 🚀 Linguagens e Tecnologias:
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff)
+###  Linguagens e Tecnologias:
+![Java](https://img.shields.io/badge/-Java-000?logo=java&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=FF00F6)
+![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=FF00F6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=FF00F6)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=FF00F6)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=FF00F6)
+![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=FF00F6)
+![R](https://img.shields.io/badge/-R-000?logo=r&logoColor=FF00F6)
 
-### 📂 Banco de Dados:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+###  Banco de Dados:
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=FF00F6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=FF00F6)
 
-### 🔧 Ferramentas:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![Railway](https://img.shields.io/badge/-Railway-000000?logo=railway&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+###  Ferramentas:
+![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=FF00F6)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=FF00F6)
+![Railway](https://img.shields.io/badge/-Railway-000000?logo=railway&logoColor=FF00F6)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=FF00F6)
 
 ---
 
-## 📚 Interesse/Estudo
+## 🎓 Interesse/Estudo
 
 - Aprofundamento em desenvolvimento **back-end com Java**
 - **Testes automatizados** e boas práticas de código limpo
@@ -51,7 +51,7 @@ Atualmente estou me especializando em:
 
 ---
 
-## Meus Projetos
+## 💼 Meus Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Instagram-clone&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=FFF)](https://github.com/Leticinha007/Instagram-clone)]
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
