@@ -3,42 +3,50 @@
 
 ## ![lr_logo_50x50](https://github.com/user-attachments/assets/e39da5bd-2043-47ac-9e8b-a9c091176390) *Leticia Rebeka*
 
-Estudante de **Engenharia de Materiais** na **Universidade Federal Rural de Pernambuco** e **ADS** na **UNINTER**. Sou apaixonada por **tecnologia**, sempre em busca de novos aprendizados e desafios no mundo do desenvolvimento de software.
+Estudante de **ADS** na **UNINTER** e **Engenharia de Materiais** na **UFRPE**, apaixonada por desenvolvimento de software e resolução de problemas reais com tecnologia. Tenho experiência prática construindo aplicações **Full Stack** com projetos reais em produção.
 
 ---
 
-## 🎓 Expertise
+## 🚀 O que estou construindo
 
-Atualmente estou me especializando em:
+Atualmente me especializando em desenvolvimento **Full Stack** com **Java**, **Spring Boot** e **Angular** — e já com experiência prática em **Node.js**, **Express** e **PostgreSQL** através de projetos reais deployados.
 
-- Desenvolvimento **Full Stack** com **Java**, **Spring Boot** e **Angular**
+- Criação e consumo de **APIs RESTful**
 - Práticas ágeis no desenvolvimento de software
-- Criação e consumo de APIs RESTful
 - Fundamentos em análise de dados com **Python** e **R**
 
 ---
 
 ## 💻 Tech Stack
 
-###  Linguagens e Tecnologias:
-![Java](https://img.shields.io/badge/-Java-000?logo=java&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=FF00F6)
-![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=FF00F6)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=FF00F6)
+### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=FF00F6)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=FF00F6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=FF00F6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=FF00F6)
+![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=FF00F6)
+
+### Backend:
+![Java](https://img.shields.io/badge/-Java-000?logo=java&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=FF00F6)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoColor=FF00F6)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=FF00F6)
 ![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=FF00F6)
 ![R](https://img.shields.io/badge/-R-000?logo=r&logoColor=FF00F6)
 
-###  Banco de Dados:
-![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=FF00F6)
+### Banco de Dados:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=FF00F6)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=FF00F6)
 
-###  Ferramentas:
-![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=FF00F6)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=FF00F6)
+### Cloud & Deploy:
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=FF00F6)
+![Render](https://img.shields.io/badge/-Render-000?logo=render&logoColor=FF00F6)
 ![Railway](https://img.shields.io/badge/-Railway-000000?logo=railway&logoColor=FF00F6)
+
+### Ferramentas:
+![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=FF00F6)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=FF00F6)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=FF00F6)
 
 ---
 
@@ -47,7 +55,13 @@ Atualmente estou me especializando em:
 - Aprofundamento em desenvolvimento **back-end com Java**
 - **Testes automatizados** e boas práticas de código limpo
 - **Análise de dados** com foco em aplicações práticas
-- Tecnologias como **Docker**, **CI/CD**, e **deploys com Railway**
+- Tecnologias como **Docker**, **CI/CD** e **deploys em nuvem**
+
+---
+
+## 📌 Projeto em destaque
+
+**[Abrigo de Seu Alberto](https://abrigodeseualberto.vercel.app)** — Site institucional com API REST em produção, banco PostgreSQL, painel administrativo autenticado e fallback automático de resiliência.
 
 ---
 
@@ -59,7 +73,7 @@ Atualmente estou me especializando em:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Gerenciador-de-Tarefas&bg_color=000&border_color=ff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/Gerenciador-de-Tarefas)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Site-Giovanna-Art&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/Site-Giovanna-Art) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticinha007&repo=Site-Giovanna-Art&bg_color=000&border_color=fff&show_icons=true&icon_color=000&title_color=FF00F6&text_color=fff)](https://github.com/Leticinha007/Site-Giovanna-Art)
 
 ---
 
@@ -72,7 +86,6 @@ Atualmente estou me especializando em:
 
 ---
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leticinha007/Leticinha007/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leticinha007/Leticinha007/output/github-contribution-grid-snake-dark.svg">
@@ -80,5 +93,3 @@ Atualmente estou me especializando em:
 </picture>
 
 ## 💜 Amo tecnologia e tenho muita vontade de aprender, crescer e inovar!
-
-
